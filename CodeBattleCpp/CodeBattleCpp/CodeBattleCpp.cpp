@@ -246,11 +246,10 @@ Step SearchWay(BoardPoint apple_position, BoardPoint head_position)
 		int _i = head_position.getY(), _j = head_position.getX();
 		int count = 0;
 		while (matrix[_i][_j][0] != 0) {
-			if (count != 0) return Step(BoardPoint(_i, _j));
 			int li = matrix[_i][_j][1];
 			int lj = matrix[_i][_j][2];
 			_i = li; _j = lj;
-			count++;
+			return Step(BoardPoint(_i, _j));
 		}
 	}
 	return Step(BoardPoint());
