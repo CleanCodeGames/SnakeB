@@ -1,0 +1,7 @@
+﻿  GameBoard.cpp
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(22,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(24,26): warning C4018: <: несоответствие типов со знаком и без знака
+  GameClientSnake.cpp
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameClientSnake.cpp(51,18): warning C4244: инициализация: преобразование "double" в "uint32_t", возможна потеря данных
+  Создание кода...
+  CodeBattleCppLibrary.vcxproj -> D:\codebattle-snakebattle-clients-master\CodeBattleCPP\x64\Debug\CodeBattleCppLibrary.lib

@@ -1,0 +1,59 @@
+﻿#pragma once
+
+#include <cstdint>
+
+enum class BoardElement : uint16_t
+{
+	NONE = L' ',
+	WALL = L'☼',
+	START_FLOOR = L'#',
+	APPLE = L'○',
+	STONE = L'●',
+	FLYING_PILL = L'©',
+	FURY_PILL = L'®',
+	GOLD = L'$',
+
+	HEAD_DOWN = L'▼',
+	HEAD_LEFT = L'◄',
+	HEAD_RIGHT = L'►',
+	HEAD_UP = L'▲',
+	HEAD_DEAD = L'☻',
+	HEAD_EVIL = L'♥',
+	HEAD_FLY = L'♠',
+	HEAD_SLEEP = L'&',
+
+	TAIL_END_DOWN = L'╙',
+	TAIL_END_LEFT = L'╘',
+	TAIL_END_UP = L'╓',
+	TAIL_END_RIGHT = L'╕',
+	TAIL_INACTIVE = L'~',
+
+	BODY_HORIZONTAL = L'═',
+	BODY_VERTICAL = L'║',
+	BODY_LEFT_DOWN = L'╗',
+	BODY_LEFT_UP = L'╝',
+	BODY_RIGHT_DOWN = L'╔',
+	BODY_RIGHT_UP = L'╚',
+
+	ENEMY_HEAD_DOWN = L'˅',
+	ENEMY_HEAD_LEFT = L'<',
+	ENEMY_HEAD_RIGHT = L'>',
+	ENEMY_HEAD_UP = L'˄',
+	ENEMY_HEAD_DEAD = L'☺',
+	ENEMY_HEAD_EVIL = L'♣',
+	ENEMY_HEAD_FLY = L'♦',
+	ENEMY_HEAD_SLEEP = L'ø',
+
+	ENEMY_TAIL_END_DOWN = L'¤',
+	ENEMY_TAIL_END_LEFT = L'×',
+	ENEMY_TAIL_END_UP = L'æ',
+	ENEMY_TAIL_END_RIGHT = L'ö',
+	ENEMY_TAIL_INACTIVE = L'*',
+
+	ENEMY_BODY_HORIZONTAL = L'─',
+	ENEMY_BODY_VERTICAL = L'│',
+	ENEMY_BODY_LEFT_DOWN = L'┐',
+	ENEMY_BODY_LEFT_UP = L'┘',
+	ENEMY_BODY_RIGHT_DOWN = L'┌',
+	ENEMY_BODY_RIGHT_UP = L'└'
+};

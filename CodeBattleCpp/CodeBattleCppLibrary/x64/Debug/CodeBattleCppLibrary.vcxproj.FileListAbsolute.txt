@@ -1,0 +1,2 @@
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\x64\Debug\CodeBattleCppLibrary.pdb
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\x64\Debug\CodeBattleCppLibrary.pdb

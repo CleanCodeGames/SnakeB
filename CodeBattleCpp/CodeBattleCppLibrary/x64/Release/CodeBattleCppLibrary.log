@@ -1,0 +1,6 @@
+﻿  GameBoard.cpp
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(23,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(24,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(34,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCppLibrary\GameBoard.cpp(35,26): warning C4018: <: несоответствие типов со знаком и без знака
+  CodeBattleCppLibrary.vcxproj -> D:\codebattle-snakebattle-clients-master\CodeBattleCPP\x64\Release\CodeBattleCppLibrary.lib
