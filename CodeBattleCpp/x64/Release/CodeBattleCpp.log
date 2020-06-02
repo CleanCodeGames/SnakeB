@@ -1,0 +1,9 @@
+﻿  CodeBattleCpp.cpp
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCpp\CodeBattleCpp.cpp(24,13): warning C4244: return: преобразование "double" в "const float", возможна потеря данных
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCpp\CodeBattleCpp.cpp(261,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  27 of 575 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    25 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CodeBattleCpp.vcxproj -> D:\codebattle-snakebattle-clients-master\CodeBattleCPP\x64\Release\CodeBattleCpp.exe

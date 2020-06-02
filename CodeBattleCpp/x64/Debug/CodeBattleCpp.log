@@ -1,0 +1,4 @@
+﻿  CodeBattleCpp.cpp
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCpp\CodeBattleCpp.cpp(15,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\codebattle-snakebattle-clients-master\CodeBattleCPP\CodeBattleCpp\CodeBattleCpp.cpp(165,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CodeBattleCpp.vcxproj -> D:\codebattle-snakebattle-clients-master\CodeBattleCPP\x64\Debug\CodeBattleCpp.exe
