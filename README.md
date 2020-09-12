@@ -1,2 +1,2 @@
 # SnakeB
-abbbb
+Учавствовал в конкурсе CodeBattlePro: SnakeBattle
